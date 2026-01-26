@@ -1,17 +1,14 @@
 <h1 align="center">
-  <a>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Firacode&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Developers!👋🏻;I'm+Blazier🔥;">
-  </a>
 </h1>
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='300'>
 
 <!--
 **MrB141107/MrB141107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-<br>
 
 -  🔭 I’m currently working on Python
 -  🌱 I’m currently learning Python
@@ -20,8 +17,7 @@ Here are some ideas to get you started:
 -  💬 Ask me about Python
 -  📫 How to reach me: Discord
 -  😄 Pronouns: He/him
-
-
+<br>
 
 [![Blazier's GitHub stats](https://github-readme-stats.vercel.app/api?username=blazier07&theme=dracula&show_icons=true)](https://github.com/blazier07/github-readme-stats)
 
@@ -31,3 +27,5 @@ Here are some ideas to get you started:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=GNU%20Bash&logoColor=white)  ![Github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white) ![Browser](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)	![Editor](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
+
+[![Blazier's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=blazier07&theme=monokai)](https://github.com/blazier07/github-readme-activity-graph)
