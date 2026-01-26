@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 -  📫 How to reach me: Discord
 -  😄 Pronouns: He/him
 
-
+<a>
+  <img src="https://github-readme-stats.vercel.app/api?username=blazier07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false">
+</a>
 # Badges
 
 [![An image of @incrediblepro's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/@incrediblepro)](https://holopin.io/@incrediblepro)
