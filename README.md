@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -  😄 Pronouns: He/him
 <br>
 
-[![Blazier's GitHub stats](https://github-readme-stats.vercel.app/api?username=blazier07&theme=dracula&show_icons=true)](https://github.com/blazier07/github-readme-stats)
+[![Blazier's GitHub stats](https://github-readme-stats.vercel.app/api?username=RathodBhavya&theme=dracula&show_icons=true)](https://github.com/RathodBhavya/github-readme-stats)
 
 # Badges
 
@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=GNU%20Bash&logoColor=white)  ![Github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white) ![Browser](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)	![Editor](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 
-[![Blazier's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=blazier07&theme=monokai)](https://github.com/blazier07/github-readme-activity-graph)
+[![Blazier's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RathodBhavya&theme=monokai)](https://github.com/RathodBhavya/github-readme-activity-graph)
